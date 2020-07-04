@@ -60,6 +60,7 @@ export const Info = styled.section`
         font-size: 14px;
         margin-top: 6px;
         color: #fff;
+        text-align: justify;
       }
     }
 }
